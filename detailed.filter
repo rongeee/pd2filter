@@ -4148,9 +4148,9 @@ ItemDisplay[rvs]: %PURPLE%+%WHITE%35% // Rejuv Potion
 ItemDisplay[rvl]: %PURPLE%+%WHITE%65%%PURPLE%+%WHITE% // Full Rejuv Potion
 
 // Drinkable Potions - to hide add "//" after the colon  (eg ": //%...")
-ItemDisplay[vps]: %WHITE%+%WHITE%Stamina // Stamina Potion
-ItemDisplay[yps]: %GREEN%+%WHITE%Antidote // Antidote Potion
-ItemDisplay[wms]: %BLUE%+%WHITE%Thawing // Thawing Potion
+//ItemDisplay[vps]: %WHITE%+%WHITE%Stamina // Stamina Potion
+//ItemDisplay[yps]: %GREEN%+%WHITE%Antidote // Antidote Potion
+//ItemDisplay[wms]: %BLUE%+%WHITE%Thawing // Thawing Potion
 
 // Throwing Potions - to hide add "//" after the colon  (eg ": //%...")
 //ItemDisplay[gpl]: %GREEN%+%WHITE%Strangling // Strangling Potion
