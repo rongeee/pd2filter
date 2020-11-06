@@ -4153,12 +4153,12 @@ ItemDisplay[yps]: %GREEN%+%WHITE%Antidote // Antidote Potion
 ItemDisplay[wms]: %BLUE%+%WHITE%Thawing // Thawing Potion
 
 // Throwing Potions - to hide add "//" after the colon  (eg ": //%...")
-ItemDisplay[gpl]: %GREEN%+%WHITE%Strangling // Strangling Potion
-ItemDisplay[gpm]: %GREEN%+%WHITE%Choking // Choking Potion
-ItemDisplay[gps]: %GREEN%+%WHITE%Rancid // Rancid Potion
-ItemDisplay[opl]: %ORANGE%+%WHITE%Fulminating // Fulminating Potion
-ItemDisplay[opm]: %ORANGE%+%WHITE%Exploding // Exploding Potion
-ItemDisplay[ops]: %ORANGE%+%WHITE%Oil // Oil Potion
+//ItemDisplay[gpl]: %GREEN%+%WHITE%Strangling // Strangling Potion
+//ItemDisplay[gpm]: %GREEN%+%WHITE%Choking // Choking Potion
+//ItemDisplay[gps]: %GREEN%+%WHITE%Rancid // Rancid Potion
+//ItemDisplay[opl]: %ORANGE%+%WHITE%Fulminating // Fulminating Potion
+//ItemDisplay[opm]: %ORANGE%+%WHITE%Exploding // Exploding Potion
+//ItemDisplay[ops]: %ORANGE%+%WHITE%Oil // Oil Potion
 
 // ------------------------------------------------------------------------------
 //    [BCTO] Scrolls & Tomes
